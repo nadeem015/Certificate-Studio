@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+certificates/
+certificate_generator.db
+.env
+.pytest_cache/
+.DS_Store
