@@ -5,5 +5,4 @@ __pycache__/
 certificates/
 certificate_generator.db
 .env
-.pytest_cache/
 .DS_Store
